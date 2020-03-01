@@ -9,7 +9,7 @@ Los campos del JSON son:
 En este repo se puede encontrar win.py, un script en python que sirve para realizar las busquedas del mensaje, pasandole como argumento el número hexadecimal del mensaje.  
   
   
-  
+# English
   
 Windows Message Translator  
 It contains a JSON, wm.json, which acts as a database, saving every Windows Message with its respective IDs, in decimal and hexadecimal.  
